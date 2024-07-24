@@ -1,0 +1,73 @@
+Tanggal,Periode,Lokasi,PH ,BOD (mg/L),COD (mg/L),TSS (mg/L),DO (mg/L),NO (mg/L),TOTAL PHOSPHATmg/L,FECAL COLIFORMMPN/100 mL,TOTAL COLIFORMMPN/100 mL,TDS (mg/L)
+24 Oktober 2023,2.0,Jembatan barong nongkojajar kab. Pasuruan,8.55,6.96,47.2,31.0,7.75,1.17,0.12,200.0,32230.0,246.0
+24 Oktober 2023,2.0,Jembatan semut kab. Pasuruan,8.69,5.03,35.9,20.0,8.35,1.05,0.12,510.0,17890.0,274.0
+24 Oktober 2023,2.0,Jembatan pasar wonorejo pakijangan kab. Pasuruan,8.23,3.65,29.4,17.6,6.87,1.89,0.14,100.0,9350.0,306.0
+24 Oktober 2023,2.0,Jembatan sidogiri ds. Plinggisan kab. Pasuruan,7.87,2.4,10.0,15.2,5.67,2.85,0.15,970.0,47210.0,456.0
+24 Oktober 2023,2.0,Jembatan batas kota pasuruan/ carma kab. Pasuruan,8.2,2.55,11.4,15.2,12.1,1.23,0.18,0.18,8400.0,526.0
+24 Oktober 2023,2.0,"Jembatan jarangan, rejoso kab. Pasuruan",7.68,2.54,12.5,37.0,4.47,0.86,0.2,300.0,16700.0,362.0
+24 Oktober 2023,2.0,Kali petung hilir kab. Pasuruan,7.53,5.09,47.2,632.0,4.18,0.17,0.06,730.0,11780.0,264.0
+24 Oktober 2023,2.0,Debit monitor pu. Rejoso,7.53,2.42,10.2,8.8,8.75,1.0,0.07,300.0,10390.0,182.0
+24 Oktober 2023,2.0,Sumber umbulan kab. Pasuruan,7.08,1.92,14.7,2.4,7.65,1.25,0.08,0.18,24950.0,166.0
+25 Januari 2023,1.0,Jembatan barong nongkojajar kab. Pasuruan,8.19,4.04,16.6,24.0,6.22,0.799,0.153,6500.0,20750.0,264.0
+25 Januari 2023,1.0,Jembatan semut kab. Pasuruan,8.3,4.41,18.7,52.0,7.47,1.27,0.121,300.0,9780.0,258.0
+25 Januari 2023,1.0,Jembatan pasar wonorejo pakijangan kab. Pasuruan,8.32,4.14,16.5,36.0,7.29,1.88,0.202,1770.0,19810.0,218.0
+25 Januari 2023,1.0,Jembatan sidogiri ds. Plinggisan kab. Pasuruan,7.96,4.04,14.7,50.0,7.03,1.74,0.139,2330.0,9590.0,300.0
+25 Januari 2023,1.0,Jembatan batas kota pasuruan/ carma kab. Pasuruan,7.83,4.01,12.5,114.0,6.36,1.8,0.166,1830.0,11910.0,326.0
+25 Januari 2023,1.0,"Jembatan jarangan, rejoso kab. Pasuruan",7.65,4.04,15.1,166.0,4.91,0.792,0.345,2850.0,22240.0,282.0
+25 Januari 2023,1.0,Kali petung hilir kab. Pasuruan,7.69,4.58,18.9,618.0,7.93,3.13,0.153,10950.0,34480.0,114.0
+26 Januari 2023,1.0,Debit monitor pu. Rejoso,7.54,3.36,4.72,100.0,7.93,1.09,0.0896,7100.0,16380.0,174.0
+26 Januari 2023,1.0,Sumber umbulan kab. Pasuruan,7.04,2.21,25.4,2.0,6.99,1.31,0.0922,100.0,4690.0,168.0
+13 Juni 2023,1.0,DAS Kedunglarangan Bagian Hulu DAM Pengairan Kakek Bodo-Prigen,8.06,1.0,18.0,5.0,8.0,0.644,0.0735,90.0,950.0,135.2
+27 September 2023,2.0,DAS Kedunglarangan Bagian Hulu DAM Pengairan Kakek Bodo-Prigen,7.0,0.84,22.0,8.0,7.0,7.0,0.003,200.0,1500.0,175.2
+13 Juni 2023,1.0,DAS Kambeng Bagian Hulu Jembatan Desa Lumbang Rejo-Prigen,7.7,2.0,16.0,3.0,6.0,0.743,0.003,750.0,1600.0,99.74
+27 September 2023,2.0,DAS Kambeng Bagian Hulu Jembatan Desa Lumbang Rejo-Prigen,7.0,2.0,17.0,19.0,2.0,3.0,0.578,390.0,4600.0,300.619
+13 Juni 2023,1.0,DAS Kambeng Bagian Tengah Jembatan Jeruk Purut-Bulusari,8.26,2.9,18.0,3.0,2.0,0.815,0.0479,40.0,430.0,107.2
+27 September 2023,2.0,DAS Kambeng Bagian Tengah Jembatan Jeruk Purut-Bulusari,8.2,1.0,15.0,10.0,7.0,5.0,0.0042,350.0,1600.0,184.3
+13 Juni 2023,1.0,DAS Kambeng Bagian Hilir Jembatan Jl. Raya Ds. Carat Kec. Gempol,8.03,3.3,14.0,4.0,1.0,0.652,0.273,230.0,1500.0,175.5
+27 September 2023,2.0,DAS Kambeng Bagian Hilir Jembatan Jl. Raya Ds. Carat Kec. Gempol,8.08,4.0,16.0,4.0,1.0,2.0,0.0032,750.0,1600.0,460.4
+12 Juni 2023,1.0,DAS Kedunglarangan Bagian Tengah Jembatan Jl. Raya Bangil Barat Masjid Manarul,8.24,1.0,17.0,2.0,7.0,0.438,0.42,1200.0,2400.0,209.4
+25 September 2023,2.0,DAS Kedunglarangan Bagian Tengah Jembatan Jl. Raya Bangil Barat Masjid Manarul,8.11,0.84,17.0,4.0,6.0,0.559,0.221,1200.0,2100.0,233.3
+12 Juni 2023,1.0,DAS Kedunglarangan Bagian Hilir Jembatan Ds. Kalirejo-Bangil,7.98,2.0,18.0,3.0,6.0,0.805,0.343,150.0,640.0,572.8
+25 September 2023,2.0,DAS Kedunglarangan Bagian Hilir Jembatan Ds. Kalirejo-Bangil,8.21,3.4,14.0,3.0,1.0,0.975,2.0,200.0,4600.0,469.5
+12 Juni 2023,1.0,DAS Masangan Bagian Tengah Jembatan Ds. Blawi-Rembang-Bangil,7.69,3.3,19.0,1.0,0.2,0.699,0.109,930.0,2100.0,218.4
+25 September 2023,2.0,DAS Masangan Bagian Tengah Jembatan Ds. Blawi-Rembang-Bangil,7.5,0.84,17.0,18.0,6.0,0.418,0.339,175.0,1200.0,262.4
+12 Juni 2023,1.0,DAS Masangan Bagian Hilir Jembatan Belakang Masjid Masangan,7.76,1.0,19.0,5.0,4.0,0.786,0.259,150.0,750.0,211.6
+25 September 2023,2.0,DAS Masangan Bagian Hilir Jembatan Belakang Masjid Masangan,7.61,2.0,16.0,1.0,3.7,0.488,0.721,750.0,2900.0,265.8
+12 Juni 2023,1.0,DAS Masangan Bagian Hulu Sungai Desa Rembang,8.27,1.0,18.0,3.0,6.0,0.652,0.897,210.0,750.0,217.5
+25 September 2023,2.0,DAS Masangan Bagian Hulu Sungai Desa Rembang,8.15,0.42,17.0,11.0,7.0,0.584,0.259,20.0,430.0,300.7
+13 Juni 2023,1.0,DAS Raci Bagian Hulu Jembatan Daerah Sukorejo,8.26,1.0,15.0,9.0,5.0,0.679,0.471,230.0,1200.0,162.6
+25 September 2023,2.0,DAS Raci Bagian Hulu Jembatan Daerah Sukorejo,8.1,2.0,20.0,13.0,6.0,0.682,0.196,200.0,1500.0,161.7
+12 Juni 2023,1.0,DAS Raci Bagian Tengah Jembatan Belakang PIER,8.62,1.0,18.0,2.0,7.0,0.842,0.139,40.0,280.0,229.8
+25 September 2023,2.0,DAS Raci Bagian Tengah Jembatan Belakang PIER,8.21,3.4,14.0,3.0,1.0,0.975,2.0,200.0,4600.0,469.5
+12 Juni 2023,1.0,DAS Raci Bagian Hilir DAM Pengairan Raci-Bangil,8.22,2.9,19.0,2.0,2.8,0.891,3.0,750.0,2100.0,217.2
+25 September 2023,2.0,DAS Raci Bagian Hilir DAM Pengairan Raci-Bangil,7.99,2.0,17.0,1.0,3.0,0.733,0.142,2900.0,4600.0,481.4
+14 Juni 2023,1.0,DAS Welang Bagian Hilir Desa Pulokerto Kec. Kraton,8.0,2.9,14.0,8.0,3.1,0.731,1.0,150.0,930.0,225.1
+26 September 2023,2.0,DAS Welang Bagian Hilir Desa Pulokerto Kec. Kraton,7.81,2.0,15.0,16.0,4.3,4.0,1.0,2900.0,4600.0,410.6
+12 Juni 2023,1.0,DAS Gembong Bagian Hilir Jembatan Jl. Raya Ds. Pleret,8.17,2.0,17.0,1.0,6.0,0.769,0.754,90.0,430.0,321.6
+26 September 2023,2.0,DAS Gembong Bagian Hilir Jembatan Jl. Raya Ds. Pleret,7.78,2.0,17.0,8.0,7.0,8.0,0.201,350.0,1200.0,226.1
+14 Juni 2023,1.0,DAS Welang Bagian Tengah Utara PT. Carma Kulit Kraton,8.16,0.42,40.0,11.0,8.0,0.844,0.449,430.0,1500.0,192.1
+26 September 2023,2.0,DAS Welang Bagian Tengah Utara PT. Carma Kulit Kraton,7.9,2.0,17.0,4.0,6.0,5.0,0.123,16.0,430.0,299.5
+13 Juni 2023,1.0,DAS Petung Bagian Tengah DAM Sekatan Bu Anis Ds. Bajangan-Gondangwetan,8.27,0.84,17.0,3.0,7.0,0.578,0.298,90.0,430.0,148.7
+26 September 2023,2.0,DAS Petung Bagian Tengah DAM Sekatan Bu Anis Ds. Bajangan-Gondangwetan,7.52,0.84,18.0,10.0,7.0,7.0,0.141,90.0,1200.0,186.0
+14 Juni 2023,1.0,DAS Petung Bagian Hilir Jembatan Karang Pandaan Kec. Rejoso,8.17,1.0,13.0,5.0,7.0,0.984,0.272,40.0,280.0,201.9
+26 September 2023,2.0,DAS Petung Bagian Hilir Jembatan Karang Pandaan Kec. Rejoso,7.62,1.0,19.0,5.0,7.0,7.0,0.137,22.0,1200.0,192.7
+12 Juni 2023,1.0,DAS Gembong Bagian Tengah Jembatan Jl. Raya Desa Kurung,8.1,0.84,18.0,2.0,8.0,0.613,0.346,200.0,1200.0,173.3
+26 September 2023,2.0,DAS Gembong Bagian Tengah Jembatan Jl. Raya Desa Kurung,7.81,0.84,17.0,1.0,7.0,0.84,0.137,350.0,2900.0,185.3
+13 Juni 2023,1.0,DAS Rejoso Bagian Hulu Jembatan Dekat Umbulan,8.06,1.0,16.0,2.0,6.0,0.622,0.0943,90.0,930.0,119.4
+29 September 2023,2.0,DAS Rejoso Bagian Hulu Jembatan Dekat Umbulan,7.41,1.0,17.0,12.0,7.0,0.518,0.0198,200.0,1600.0,206.9
+12 Juni 2023,1.0,DAS Gembong Bagian Hulu Ds. Tanggulangin Selatan Nestle,8.02,1.0,17.0,5.0,8.0,1.0,0.498,150.0,950.0,226.5
+26 September 2023,2.0,DAS Gembong Bagian Hulu Ds. Tanggulangin Selatan Nestle,7.82,0.63,19.0,5.0,8.0,7.0,0.137,750.0,2400.0,177.2
+14 Juni 2023,1.0,DAS Rejoso Bagian Tengah Jembatan Jl. Raya Ds. Patuguran-Rejoso,8.12,0.84,15.0,2.0,6.0,0.589,0.861,40.0,430.0,182.8
+29 September 2023,2.0,DAS Rejoso Bagian Tengah Jembatan Jl. Raya Ds. Patuguran-Rejoso,7.59,3.3,16.0,2.0,3.8,1.0,0.21,12.0,1200.0,175.9
+13 Juni 2023,1.0,DAS Petung Bagian Hulu Desa Kepuh Kec. Kejayan,8.4,1.0,19.0,5.0,5.0,0.494,0.217,200.0,1200.0,182.8
+26 September 2023,2.0,DAS Petung Bagian Hulu Desa Kepuh Kec. Kejayan,8.02,0.84,18.0,8.0,6.0,0.882,0.0539,12.0,930.0,188.4
+14 Juni 2023,1.0,DAS Rejoso Bagian Hilir Jembatan Tambak Patuguran-Jarangan,8.15,2.0,13.0,6.0,6.0,0.739,1.0,90.0,750.0,211.3
+29 September 2023,2.0,DAS Rejoso Bagian Hilir Jembatan Tambak Patuguran-Jarangan,7.38,4.0,16.0,1.0,3.0,2.0,0.164,90.0,695.0,195.3
+14 Juni 2023,1.0,DAS Laweyan Bagian Hulu Gang Makam Ds. Wates Tani,8.06,1.0,22.0,6.0,6.0,0.743,0.405,150.0,750.0,157.5
+29 September 2023,2.0,DAS Laweyan Bagian Hulu Gang Makam Ds. Wates Tani,7.38,21.0,50.0,7.0,5.0,1.0,7.0,3750.0,11000.0,255.6
+13 Juni 2023,1.0,DAS Welang Bagian Hulu Jembatan Ds. Cowek Purwodadi,8.7,2.0,15.0,1.0,7.0,0.579,0.424,200.0,950.0,206.5
+26 September 2023,2.0,DAS Welang Bagian Hulu Jembatan Ds. Cowek Purwodadi,8.11,2.0,19.0,6.0,7.0,0.509,0.0784,24.0,2250.0,164.6
+14 Juni 2023,1.0,DAS Laweyan Bagian Hilir Jembatan Ds. Penunggul,8.47,0.84,16.0,2.0,6.0,0.413,0.521,230.0,750.0,262.7
+29 September 2023,2.0,DAS Laweyan Bagian Hilir Jembatan Ds. Penunggul,7.04,2.0,17.0,1.0,5.0,3.0,0.229,390.0,2100.0,291.6
+14 Juni 2023,1.0,DAS Laweyan Bagian Tengah Jembatan Nguling Tongas,8.19,2.0,13.0,3.0,5.0,0.695,0.564,230.0,930.0,289.3
+29 September 2023,2.0,DAS Laweyan Bagian Tengah Jembatan Nguling Tongas,7.69,2.0,17.0,1.0,6.0,3.0,0.136,16.0,1500.0,193.0
