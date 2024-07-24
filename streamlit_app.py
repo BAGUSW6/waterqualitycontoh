@@ -20,11 +20,21 @@ def load_data():
 
 df = load_data()
 
+# Display the dataset columns to debug and ensure correct column names
+st.write("Dataset Columns:", df.columns.tolist())
+
+# Define the columns to use for multiselect, skipping the first three (Tanggal, Periode, Lokasi)
+parameter_options = df.columns[3:]
+
+# Set default parameters ensuring they are in the dataset
+default_parameters = ["PH", "BOD (mg/L)", "COD (mg/L)", "TSS (mg/L)", "DO (mg/L)"]
+default_parameters = [param for param in default_parameters if param in parameter_options]
+
 # Show a multiselect widget with the chemical parameters using `st.multiselect`.
 parameters = st.multiselect(
     "Parameters",
-    df.columns[3:],  # Exclude the first three columns (Tanggal, Periode, Lokasi)
-    ["PH", "BOD (mg/L)", "COD (mg/L)", "TSS (mg/L)", "DO (mg/L)"]
+    options=parameter_options,  
+    default=default_parameters
 )
 
 # Show a slider widget with the rows (for demonstration purposes).
