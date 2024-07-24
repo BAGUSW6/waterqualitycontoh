@@ -15,7 +15,7 @@ st.write(
 # Load the data from a CSV. We're caching this so it doesn't reload every time the app reruns.
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data/ika23_cleaned.csv")
+    df = pd.read_csv("data/waterQuality1.csv")
     return df
 
 df = load_data()
